@@ -119,7 +119,7 @@ SESSION-ID ==> ${Scan_Id}
 
 
 
-  VIBEZ().catch(async(err) => {
+  vibez().catch(async(err) => {
     console.log(err)
     await fs.emptyDirSync(__dirname+'/auth_info_baileys'); 
 
