@@ -1,6 +1,6 @@
 {
     "name": "web-qr",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "description": "A multi functional whatsapp bot Web Qr Scanner.",
     "main": "index.js",
     "scripts": {
@@ -20,7 +20,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.dev/SuhailTechInfo/web-qr.git"
+        "url": "git+https://github/GiftedTerry/web-qr.git"
     }
   }
   
